@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "better-sqlite3": "^7.5.3",
+    "better-sqlite3": "^9.4.3",
     "chai": "^4.2.0",
-    "mocha": "^7.1.1"
+    "mocha": "^10.4.0"
   }
 }
